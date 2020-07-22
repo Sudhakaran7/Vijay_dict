@@ -1,0 +1,29 @@
+Vijay is a 10th standard student, he is bored in english class, his teacher gave him a task,
+she gave a word and list of words, his task is to find the given word is in the list by deleting 
+some of the characters and find whether the given word is presented in the given list.
+Note: Vijay have to find the longest word from the list, after deleting few characters from the given word.
+
+Input Description:
+The word to be searched in the list
+Followed by the list of words
+
+Output Description:
+The word found from the list
+
+Sample input:
+abpcplea
+ale monkey apple lea
+
+Sample Output:
+apple
+
+Explanation:
+The word "abpcplea" two words can be formed, "apple", "le"
+but we have to print the longest word found so "apple" is the answer
+
+Sample input:
+gyuooevsip
+uoo guvi google
+
+Sample Output:
+guvi
